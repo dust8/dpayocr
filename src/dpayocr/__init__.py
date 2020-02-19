@@ -4,4 +4,4 @@ from .payqrcode import (
     parse_pay_qr_code_price,
 )
 
-__VERSION__ = "1.0"
+__version__ = "1.0.1"
